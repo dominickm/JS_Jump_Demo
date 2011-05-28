@@ -1,0 +1,3 @@
+This is not intended to be a complete app, only a simple code base and sample for those curious about working with JavaScript and HTML 5 to make iOS apps. This code does work on desktop browsers. There is some Apple specific code in the markup. However, in my testing this code is gracefully ignored in FireFox 4 and Chrome. Unfortunately, I have not been able to test this on an Android based device, however, it should work on Android OS 2.2 or greater with little to no modification. 
+
+You are welcome to use this code as a base or reference for your own work if you so desire. I just ask that you contact me and let me know what you are doing with it and what modifications you are making; this is more out of curiosity than anything else. 
